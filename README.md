@@ -1,1 +1,1 @@
-![Picture of my Dnamic User Interface.](screenshot.png)
+![Picture of my Dynamic User Interface.](interface.png)
